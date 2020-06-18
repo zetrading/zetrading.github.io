@@ -2188,11 +2188,3 @@ blockquote::before {
 .error-area .read-more {
     width: auto;
 }
-
-@media only screen and (max-width: 465px) {
-.desktop { display: none; }
-}
-
-@media only screen and (max-width: 466px) {
-.mobile { display: none; }
-}
