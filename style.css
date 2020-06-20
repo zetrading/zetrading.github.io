@@ -2195,3 +2195,7 @@ blockquote::before {
   align-items: stretch;
   justify-content: flex-start;
 }
+
+.image-container img {
+  width: 50%;
+}
