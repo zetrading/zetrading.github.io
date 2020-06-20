@@ -2189,14 +2189,3 @@ blockquote::before {
     width: auto;
 }
 
-.image-container {
-  display: flex;
-  flex-direction: row;
-  flex-wrap:wrap;
-  align-items: stretch;
-  justify-content: flex-start;
-}
-
-.image-container img {
-  width: 25%;
-}
