@@ -3153,15 +3153,11 @@
 
 .image-container {
   display: flex;
-  justify-content: center;
   flex-direction: row;
   flex-wrap:wrap;
   align-items: stretch;
   justify-content: flex-start;
   position: absolute;
-    top: 0;
-    left: 0;
-    overflow: auto;
 }
 
 .image-container img {
