@@ -3157,8 +3157,10 @@
   flex-wrap:wrap;
   align-items: stretch;
   justify-content: flex-start;
-  position: static;
+  position: relative;
   margin: auto;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .image-container img {
